@@ -4,6 +4,7 @@ author: "Addison Carroll"
 date: Oct 23rd, 2023
 institute: "University of Nebraska-Lincoln"
 format: beamer
+output: html_document
 themeoptions:
   - left
   - hideothersubsections
