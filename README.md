@@ -6,7 +6,7 @@ CV
 https://github.com/Addilee27/CV-ppt/blob/main/CV.pdf
 
 ppt html
-https://github.com/Addilee27/CV-ppt/blob/main/html-ppt.pdf
+https://github.com/Addilee27/CV-ppt/blob/main/html-ppt.html
 
 ppt pdf
 https://github.com/Addilee27/CV-ppt/blob/main/ppt.pdf
