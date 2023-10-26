@@ -22,6 +22,10 @@ output:
   vitae::moderncv:
    theme: banking
 ---
+# Addison Carroll
+## Graduate Research Assistant
+### email : acarroll11@huskers.unl.edu
+### cell : 816-645-2484
 
 ## Education
 
