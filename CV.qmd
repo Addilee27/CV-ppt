@@ -1,0 +1,148 @@
+---
+title: "CV"
+format: pdf
+editor: visual
+---
+
+```{R echo = FALSE, warning = FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tinytex)
+```
+
+---
+name: Addison
+surname: Carroll
+position: Graduate Research Assistant
+email: acarroll11@huskers.unl.edu
+aboutme: I am passionate about the evolution of dairy cattle nutrition through the continued technical advances of feed processing and product development. My goals are to benefit producers with meaningful research on the impacts of novel feed products, new insights on energy metabolism, and effectively bridge the gap between science and real-world applications.
+headcolor: 'red'
+fortmat: article
+output:
+  vitae::moderncv:
+   theme: banking
+---
+
+## Education
+
+Doctor of Philosophy, Ruminant Nutrition January 2022-Present University of Nebraska, Lincoln, NE Advisor: Dr. Paul Kononoff
+
+Master of Science, Ruminant Nutrition January 2020 -December 2021 University of Nebraska, Lincoln, NE Advisor: Dr. Paul Kononoff
+
+Bachelor of Science, Animal Science January 2017 -December 2019 Northwest Missouri State University, Maryville, MO
+
+## Manuscripts
+
+"Examining feed preference of different pellet formulations for application to automated milking systems." Carroll et al. (2023; https://doi.org/10.3168/jdsc.2022-0318)
+
+"Energy and nitrogen utilization of lactating dairy cattle fed increasing inclusion of a high protein processed corn product" Carroll et al. (2023; https://doi.org/10.3168/jds.2023-23360)
+
+## Grants and Speaking
+
+### Grant
+
+Exploring commercial strategies to determine feed preference of lactating Jersey cows in automatic milking systems (AMS; \$8,531; 2022) -- Coauthor and coinvestigator
+
+### Speaking
+
+Distillers Grains Technology Council Symposium. Omaha, NE. (2022). Titled "Feeding coproducts to lactating dairy cattle"
+
+Western Hemisphere Regional Nutrition Conference. Online. Panama. (2023). Titled "From feed preference to energy partitioning: Feeding coproducts to lactating dairy cattle"
+
+## Awards & Recognition
+
+-   Top 5 in Lallemand Forward Scholarship - 2020
+-   Nebraska State Dairy Association Scholarship - 2021
+-   Distillers Grains Technology Council Scholarship - 2021
+-   National Milk Producers Paper Contest (2nd place) - 2023
+
+## Professional Experience
+
+#### University of Nebraska-Lincoln. Lincoln, NE.
+
+#### Graduate Research Assistant
+
+##### January 2020- Present -
+
+-   Collaborate with team members to conduct research in the areas of feed characterization and energy metabolism
+-   Mentor and train new graduate and undergraduate students to milking system, gas analysis and energy balance procedures
+-   Improve laboratory systems with the creation of laboratory equipment and protocol
+-   Provide assistance to animal husbandry staff during collection periods
+-   Communicate effectively with faculty and staff inside and outside of the department to achieve programmatic goals
+
+#### Groves Dairy. Skidmore, MO.
+
+#### Milker
+
+##### July 2018- December 2019
+
+-   Supervised milking of \~90 head Jersey Dairy
+-   Alerted management to health issues present in the herd so that management goals were fulfilled
+-   Maintained parlor in respect to cleanliness and operating ability - Responsible for calf feeding
+
+## Research Experience
+
+#### University of Nebraska-Lincoln. Lincoln, Ne.
+
+#### Examining variance in the energy metabolism of Jersey cattle
+
+#### Graduate research assistant- PhD Student
+
+##### January 2022- Current •
+
+-   Statistically examined among-animal variance in energy balance measures from 115 lactating Jersey cattle
+-   Developed protocol and diets to achieve target body condition scores in Jersey cattle within a 115-day timeframe
+-   Used dietary and management strategies to successfully transition animals into and out of a 96-hour fasting period.
+-   Utilized headbox style indirect calorimetry and total collection to determine the impacts of body condition score on maintenance energy requirements - Evaluated retrospective nutritional and production data to create alerts for commercial dairy feeding software
+
+#### University of Nebraska-Lincoln. Lincoln, Ne.
+
+#### Feeding a new corn milling co-products to lactating dairy cattle; examination of whole animal energy and nitrogen balance
+
+#### Graduate research assistant -- Masters
+
+##### January 2020- December 2021
+
+-   Chemically characterized novel feed product by in vivo and in vitro methods
+-   Designed improved laboratory in vitro system to reduce error and allow for long term fermentations when analyzing neutral detergent fiber digestibility
+-   Performed in situ mobile bag assay to determine protein fractions of novel high protein feed product
+-   Conducted replicated 4x4 Latin square experiment with mid lactation Jersey cows
+-   Created control and treatment rations utilizing ration software including AMTS, NDS, and NRC (2001)
+-   Scheduled and carried out acclimation of cattle to headboxes prior to collection
+-   Utilized headbox-style indirect calorimetry and total collection to determine net energy of lactation of the novel feed product, and nitrogen and energy balance
+
+#### University of Nebraska-Lincoln. Lincoln, Ne.
+
+#### Validation of new A2 genetic screening device Graduate research assistant
+
+##### November 2020- February 2021
+
+-   Aided Nebraska dairy extension agent in collecting milk and tissue samples from \~700 head total at two large commercial dairies in Nebraska
+-   Analyzed samples through new commercial equipment for determining A1/A2 casein genetics
+-   Synthesized data from 1400 samples prior to statistical analysis
+
+#### Iowa State University. Ames, Ia.
+
+#### The effects of spoiled corn silage on in vitro gas production and fiber digestibility
+
+#### Research Intern
+
+##### May 2019- August 2019
+
+-   Examined how spoiled silage affects in vitro fiber digestibility and gas production while utilizing the ANKOM system
+-   Utilized cannulated cows for rumen fluid collection and incubation
+-   Interpreted data via Excel and SAS from both fiber and gas production data
+-   Followed laboratory assays to determine NDF and ADF digestibility
+
+#### Iowa State University. Ames, Ia.
+
+#### The effects of calcium gluconate on milk production and composition
+
+#### Research Intern
+
+##### May 2019- August 2019
+
+-   Aided in total mixed ration preparation, mixing and dosing of Calcium Gluconate
+-   Obtained milk samples via the ISU Dairy protocol and subway sampling system for sixty cows
+-   Gave treatment cows boluses when health instances occurred and animals were placed in veterinary care
+-   Managed project during graduate student transition period, oversaw dosing, feeding, and scheduling undergraduate labor during this period
