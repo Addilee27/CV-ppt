@@ -1,0 +1,60 @@
+# Presentations and CVs
+
+---
+title: "All about me"
+author: "Addison Carroll"
+date: Oct 23rd, 2023
+institute: "University of Nebraska-Lincoln"
+format: beamer
+themeoptions:
+  - left
+  - hideothersubsections
+---
+
+## Introduction
+
+Hi name is Addison Carroll, and I am in 18th grade (2nd year PhD)
+
+I was born January 27th 1998
+
+I grew up in Smithville Missouri (30 min north of KC)
+
+I currently work in dairy cattle nutrition focusing predominantly on dairy cattle energy utilizaiton
+
+I am planning to graduate early next fall!
+
+## My favorite animal
+
+My favorite animal is the wild Jersey heifer. They are curious and adorable. They have fun personalities and are a blast to work with..
+
+These little ladies are named Randi (#25079) and Julie (#25000)
+
+![*Julie and Randi*](IMG_20230923_105712.jpg)
+
+## My favorite plot
+
+Super gross and I dig it
+
+```{R, echo = FALSE, warning = FALSE, message = FALSE}
+library(palmerpenguins)
+data(package = 'palmerpenguins')
+library(knitr)
+library(readr)
+library(ggplot2)
+knitr::opts_chunk$set(echo = TRUE)
+options(digits = 3)
+penguin <- as.data.frame(penguins)
+ggplot(data = penguin,
+  aes(x=bill_length_mm, y=body_mass_g)) +
+  geom_point(aes(color = species), show.legend = F, size = 40) +
+  scale_color_manual(values = c("Adelie" = "#F8D9DE", "Gentoo" = "#D3D3D3", "Chinstrap" = "#F2FAE9")) +
+  labs(x = "BILL", y = "BODY") +
+  theme(axis.text = element_text(size= 2), axis.title.y = element_text(angle=180), axis.title.x = element_text(angle=270) ) +
+  scale_x_continuous(limits = c(40,50)) +
+  scale_y_continuous(limits = c(3500,5000))
+```
+
+## CV link
+https://github.com/Addilee27/CV-ppt
+
+
